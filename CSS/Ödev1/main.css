@@ -1,0 +1,109 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: Khaki;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 2.1rem;
+    color: Navy;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: crimson;
+    letter-spacing: 5px;
+    background-color: rgba(18, 211, 24, 0.398);
+}
+.head1 a {
+    color: navy;
+    text-decoration-color: crimson
+}
+/* Navbar */
+.nav-bar {
+    text-align:center;
+    width: 400px;
+    margin: 50px auto;
+    background: rgba(121, 4, 255, 0.371);
+    border-radius: 4px;
+}
+
+.nav-bar ul li{
+    display:inline-block;
+    text-align: center;
+}
+.nav-bar ul li a {
+    font-size: 1.2rem;
+    padding:0 15px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.nav-bar ul li a:hover {
+    color: rgb(255, 255, 255);
+}
+/* h2 */
+h2{
+    text-align: center;
+    color: Maroon;
+    background-color: orange;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+}
+/* İndex Content */
+.index-p img{
+    height:200px;
+    text-align: center;
+    display: block; 
+    margin: auto
+
+}
+.index-p p {
+    font-size: 1.2rem;
+    text-align: center;
+    border: springgreen solid 3px;
+}
+/* products */
+.pro {
+text-align: center;
+list-style-position: inside;
+}
+
+.pro img {
+    height: 220px;
+}
+.pro p {
+    font-size: 1.3rem;
+    letter-spacing: 2px;
+    text-decoration: underline;
+}
+.pro {
+    border: solid 5px;
+    width: 550px;
+    overflow: hidden;
+    margin: 50px auto;
+}
+.more {
+    border:solid black;
+    background-color: black;
+}
+.more a {
+    color: white;
+}
+/* about-us*/
+.about {
+    font-size: 1.1rem;
+}
+.about h3 {
+    font-size: 1.2rem;
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+
+.contact ul{
+    text-align: center;
+    list-style-type: none;
+    border: solid 1px black;
+    margin: 50px auto;
+    background-color: rgb(53, 2, 29);
+}
+.contact ul li a {
+    color: rgb(255, 255, 255);
+}
