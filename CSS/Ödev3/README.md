@@ -1,5 +1,5 @@
 # Güncel Google Anasayfa Tasarımı
-Front-end Css ödevim için güncel Google sayfasını yaptım.
+Front-end Css, son ödevim için güncel Google sayfasını yaptım.
 # Yapılanlar
 Css komutları kullanıldı.
 Logo ve profil pic değiştirildi.
