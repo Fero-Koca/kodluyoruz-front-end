@@ -1,5 +1,5 @@
-# Css ödev 1'i tekrardan tasarlamak
-Front-end Css ödev1 de yapmış olduğum siteyiğ bootstrap kullanarak tekrardan tasarladım.
+# Bootstrap ile site tasarlamak
+Front-end Css ödev1 de yapmış olduğum siteyi bootstrap kullanarak tekrardan tasarladım.
 # Yapılanlar
 Css komutları kullanıldı.
 Navbar yapıldı.
