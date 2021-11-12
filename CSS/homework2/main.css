@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(255, 255, 255);
+    }
+.logo img {
+    width: 351px;
+    height: 113px;
+    margin: auto 0;   
+    }
+.center {
+    text-align:center;
+    }
+/* Arka plan rengi orjinale göre ayarlandı. Logo boyutları ayarlandı. Ortalamak amacıyla center classı oluşturuldu. */
+.box {
+    margin: 0 auto;
+} 
+table {
+    width: 90%;
+    margin: 0 auto;
+ }
+
+/* Tablo ortalandı.*/
+.top-td {
+    background-color: #EEEEEE;
+}
+.top {
+    display: block;
+    text-align:center;
+    border-spacing: 2px;
+}
+.top p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+.text{ 
+    margin-top: 0px;
+}
+/* Top-box düzeltildi */
+.td1{
+    width: 37%;
+    background-color:#7EE5DA;
+    padding: 1px;
+}
+.td1 p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+.td2 {
+    background-color: rgb(112, 204, 194);
+    padding: 1px;
+    font-size: small
+}
+.td3 {
+    text-align:center;
+    background-color: rgb(98, 179, 170);
+    padding: 1;
+}
+.td3 p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    font-size: small;
+}
