@@ -1,7 +1,10 @@
-# toDoList
-Basit bir toDoList projesi
+
+# Saat yapımı
+Front-end JavaScript, ilk ödevim için JavaScript komutları ile basit bir saat yaptım
 # Yapılanlar
-* 
+* Prompt kullanıldı.
+* "document.querySelector/getElementById" kullanıldı.
+* Date komutları kullanıldı.
+* Switch ve Case kullanıldı.
 
 ## Not
-localStorage eklenmedi...
